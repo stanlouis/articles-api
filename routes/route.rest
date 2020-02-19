@@ -1,0 +1,9 @@
+
+
+###
+POST http://localhost:3005/api/articles
+
+Content-Type: application/json
+
+{"author":"Stanley Louis", "title": "Angular", "content": "Angular is a TypeScript-based open-source web application framework"}
+###
